@@ -20,9 +20,10 @@ android = "assets/icon_android.png"
 
 [tool.flet.icons]
 android = "assets/icon_android.png"
+hide_animation = true       # скрыть анимацию загрузки Flet по умолчанию
 
 
-[tool.flet.splash]
+#[tool.flet.splash]
 # color = "#ffffff"           # измените на цвет фона вашего приложения
 # dark_color = "#222222"      # цвет фона для тёмной темы
-hide_animation = true       # скрыть анимацию загрузки Flet по умолчанию
+
