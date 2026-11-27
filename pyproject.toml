@@ -13,3 +13,7 @@ dependencies = [
 product = "TTIT Journal"
 # Укажите ваш package name (можно изменить на свой)
 org = "com.yourname.ttit"
+
+[tool.flet.icons]
+#Путь к директории с иконками
+android = "assets/icon_android.png"
