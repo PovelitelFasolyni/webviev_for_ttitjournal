@@ -20,7 +20,7 @@ android = "assets/icon_android.png"
 
 [tool.flet.icons]
 android = "assets/icon_android.png"
-hide_animation = true       # скрыть анимацию загрузки Flet по умолчанию
+#hide_animation = true       # скрыть анимацию загрузки Flet по умолчанию
 
 
 #[tool.flet.splash]
