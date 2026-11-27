@@ -1,0 +1,15 @@
+[project]
+name = "ttit-journal"
+version = "1.0.0"
+description = "TTIT Journal WebView App"
+requires-python = ">=3.12"
+dependencies = [
+    "flet",
+    "flet-webview",
+]
+
+[tool.flet]
+# Укажите имя вашего приложения
+product = "TTIT Journal"
+# Укажите ваш package name (можно изменить на свой)
+org = "com.yourname.ttit"
