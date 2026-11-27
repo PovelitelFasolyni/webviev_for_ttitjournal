@@ -20,7 +20,7 @@ android = "assets/icon_android.png"
 
 [tool.flet.icons]
 android = "assets/icon_android.png"
-splash_android = "assets/icon_android.png"
+
 
 [tool.flet.splash]
 color = "#ffffff"           # измените на цвет фона вашего приложения
